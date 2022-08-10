@@ -1,0 +1,2 @@
+FROM varnish:7.1
+ENV VARNISH_MEMORY 1G
